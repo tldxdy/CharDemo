@@ -195,7 +195,6 @@ public class CharView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-
         /**
          * 划横线
          */
