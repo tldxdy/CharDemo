@@ -5,4 +5,4 @@
 
 
 
- ![image](https://github.com/tldxdy/charDemo/img_1.jpg)
+ ![image](https://github.com/tldxdy/charDemo/blob/master/img_1.jpg)
