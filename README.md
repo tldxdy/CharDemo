@@ -5,4 +5,4 @@
 
 
 
- ![image](https://github.com/tldxdy/charDemo/blob/master/img_1.png?raw=true)
+ ![](https://github.com/tldxdy/charDemo/blob/master/img_1.png) 
